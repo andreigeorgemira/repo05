@@ -8,3 +8,11 @@ El fichero readme es este. Por ello no necesito crear ninguno nuevo porque el re
 
 ## 5.3
 ![alt text](image.png)
+
+## 5.4
+![alt text](image-1.png)
+
+## 5.5
+![alt text](image-2.png)
+
+## 5.6
